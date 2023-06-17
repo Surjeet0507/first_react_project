@@ -1,0 +1,15 @@
+.Signup{
+  margin: 8% 0 0 30%;
+  width: 40%;
+  height: 100 vh;
+  /* color: brown; */
+  
+}
+.btn{
+  width: 100%;
+  margin-top: 15px;
+  background-color: rgb(0, 162, 255);
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+}
